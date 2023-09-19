@@ -1,3 +1,7 @@
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
+
 ### A (somewhat opinionated) overview of books about the foundations of quantum mechanics ###
 
 Testing 1,2,3, why is this not working? 
