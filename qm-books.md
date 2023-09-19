@@ -17,10 +17,7 @@
    if you want to avoid the math, but bad if you want to understand
    how the math works. So don't look here, for example, for an explanation of the connection between Hermitian matrices and families of  projection operators.
    
-2. Redhead, _Incompleteness, Nonlocality, and Realism_. I remember
-   this book as being rather difficult to read, as it as lots of symbolic formulas. However, it is quite sharp about
-   the various mathematical constraints faced by interpretations of quantum mechanics. As the title states, the focus is on
-   incompleteness (no hidden variable theorems) and nonlocality (Bell's theorem). 
+2. Redhead, _Incompleteness, Nonlocality, and Realism_. This book isn't particularly pedagogical if you don't already know something about the formalism of quantum mechanics. However, it is rather rigorous in describing the various mathematical constraints faced by interpretations of quantum mechanics. As the title states, the focus is on incompleteness (no hidden variable theorems) and nonlocality (Bell's theorem). 
    
 3. Hughes, _The Structure and Interpretation of Quantum Mechanics_. This book has pretty good pedagogy about the formalism,
    especially considering that it was written by a philosopher. However, it is also idiosyncratic in its account of
@@ -31,7 +28,7 @@
    quantum mechanics. The presentation of the measurement problem is
    forceful, if not particularly comprehensive (e.g. about how the
    math works). Don't come here to learn about linear operators, the
-   spectral theorem, etc.
+   spectral theorem, etc. Albert's book is also rather loose in terminology, e.g. it doesn't attempt to give precise definitions of things like "contextual hidden variable theory". 
    
 5. Isham, _Lectures On Quantum Theory: Mathematical And Structural
    Foundations_ This is a book by a mathematical physicist who has a
