@@ -24,9 +24,7 @@
    
 3. Hughes, _The Structure and Interpretation of Quantum Mechanics_. This book has pretty good pedagogy about the formalism,
    especially considering that it was written by a philosopher. However, it is also idiosyncratic in its account of
-   interpretation, placing a lot of focus on quantum logic, and little
-   focus on the various interpretations. Don't come here to learn
-   about Bohm, GRW, or Everett. 
+   interpretation, placing a lot of focus on quantum logic, and little focus on the popular interpretations. In fact, does it even mention      Bohm, GRW, or Everett? 
    
 4. Abert, _Quantum Mechanics and Experience_. This is the classic work
    for presenting the case that something is disastrously wrong with
@@ -40,4 +38,8 @@
    philosophical orientation. It's excellent on the formalism and on
    the no hidden variables theorems. But does it put forward a
    plausible view about how to interpret the theory? Not likely.
+
+# Additional notes
+
+1. Books written before circa 2005 usually do not include adequate treatment of Everett. There was an Everett revival in the early 2000s, and this new work is only covered in more recent books.
 
