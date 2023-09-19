@@ -43,5 +43,5 @@
 
 # Additional notes
 
-1. Books written before circa 2005 usually do not include adequate treatment of Everett. There was an Everett revival in the early 2000s, and this new work is only covered in more recent books.
+1. Books written before circa 2005 do not include an adequate treatment of Everett. There was an Everett revival in the early 2000s, and this new work is only covered in more recent books.
 
