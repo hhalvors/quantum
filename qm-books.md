@@ -2,6 +2,8 @@
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
 
+<header>Books on QM</header>
+
 # A (somewhat opinionated) overview of books about the foundations of quantum mechanics
 
 1. Maudlin, _Philosophy of Physics: Quantum Theory_. He begins the
