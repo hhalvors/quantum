@@ -9,25 +9,21 @@
    there is and how it changes over time. Full stop. Therefore we have
    no reason to consider "critical" approaches to quantum theory that
    include meta-theoretical commitments (e.g. about different
-   perspectives, etc.) It does, however, offer a clear account of the
+   perspectives). The book does, however, offer a clear account of the
    important philosophical issues. It also gives one of the best brief
    accounts of Bohm and GRW.
    
-   This book is a bit thin on the mathematics side --- which is good
+   This book is thin on the mathematics side --- which is good
    if you want to avoid the math, but bad if you want to understand
    how it works.
    
 2. Redhead, _Incompleteness, Nonlocality, and Realism_. I remember
-   this book as not particularly pedagogical, but as quite sharp about
-   the various mathematical constraints faced by interpretations of
-   quantum mechanics. As the title states, the focus is on
-   incompleteness (no hidden variable theorems) and nonlocality
-   (Bell's theorem). 
+   this book as being rather difficult to read, as it as lots of symbolic formulas. However, it is quite sharp about
+   the various mathematical constraints faced by interpretations of quantum mechanics. As the title states, the focus is on
+   incompleteness (no hidden variable theorems) and nonlocality (Bell's theorem). 
    
-3. Hughes, _The Structure and Interpretation of Quantum
-   Mechanics_. This book has pretty good pedagogy about the formalism,
-   especially considering that it was written by a
-   philosopher. However, it is also idiosyncratic in its account of
+3. Hughes, _The Structure and Interpretation of Quantum Mechanics_. This book has pretty good pedagogy about the formalism,
+   especially considering that it was written by a philosopher. However, it is also idiosyncratic in its account of
    interpretation, placing a lot of focus on quantum logic, and little
    focus on the various interpretations. Don't come here to learn
    about Bohm, GRW, or Everett. 
