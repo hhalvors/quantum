@@ -15,7 +15,7 @@
    
    This book is thin on the mathematics side --- which is good
    if you want to avoid the math, but bad if you want to understand
-   how it works.
+   how the math works. So don't look here, for example, for an explanation of the connection between Hermitian matrices and families of projection operators.
    
 2. Redhead, _Incompleteness, Nonlocality, and Realism_. I remember
    this book as being rather difficult to read, as it as lots of symbolic formulas. However, it is quite sharp about
