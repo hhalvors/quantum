@@ -25,10 +25,7 @@
    spectral theorem, etc. Albert's book is also rather loose in terminology, e.g. it doesn't attempt to give precise definitions of things like "contextual hidden variable theory". 
    
 6. Isham, _Lectures On Quantum Theory: Mathematical And Structural
-   Foundations_ This is a book by a mathematical physicist who has a
-   philosophical orientation. It's excellent on the formalism and on
-   the no hidden variables theorems. But does it put forward a
-   plausible view about how to interpret the theory? Not likely.
+   Foundations_ This is a book by a mathematical physicist with a philosophical orientation. The math is done more elegantly than any of the philosophy books, and it has a good (although idiosyncratic) presentation of no hidden variables theorems. But you won't get much discussion here of the lines of debate vis-a-vis different interpretations of QM.
 
 # Additional notes
 
