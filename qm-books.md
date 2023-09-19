@@ -1,6 +1,6 @@
 ### A (somewhat opinionated) overview of books about the foundations of quantum mechanics ###
 
-Testing 1,2,3
+Testing 1,2,3, why is this not working? 
 
 1. Maudlin, _Philosophy of Physics: Quantum Theory_. He begins the
    book with a methodological manifesto: a good theory specifies what
