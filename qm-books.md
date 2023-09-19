@@ -2,8 +2,6 @@
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
 
-<header>Books on QM</header>
-
 # A (somewhat opinionated) overview of books about the foundations of quantum mechanics
 
 1. Maudlin, _Philosophy of Physics: Quantum Theory_. He begins the
@@ -17,7 +15,7 @@
    
    This book is thin on the mathematics side --- which is good
    if you want to avoid the math, but bad if you want to understand
-   how the math works. So don't look here, for example, for an explanation of the connection between Hermitian matrices and families of projection operators.
+   how the math works. So don't look here, for example, for an explanation of the connection between Hermitian matrices and families of  projection operators.
    
 2. Redhead, _Incompleteness, Nonlocality, and Realism_. I remember
    this book as being rather difficult to read, as it as lots of symbolic formulas. However, it is quite sharp about
